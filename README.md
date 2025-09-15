@@ -41,9 +41,9 @@ I'm a second-year Applied Mathematics & Computer Science student who is deeply p
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="40" alt="c++ logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="  https://icon.icepanel.io/Technology/svg/C.svg" height="40" alt="c logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
