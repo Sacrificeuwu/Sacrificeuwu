@@ -18,15 +18,9 @@
 
 ###
 
-<p align="left">🚀 Aspiring Software Engineer (Frontend & C++)
+<p align="left">🚀 Begginer Software Engineer (Frontend & C++)
 
 I'm a second-year Applied Mathematics & Computer Science student who is deeply passionate about turning complex problems into elegant solutions. I believe in a hands-on approach to learning: you'll usually find me grinding algorithms on LeetCode or building new pet projects to level up my coding skills. I'm on a mission to master the art of development, one commit at a time.</p>
-
-###
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 ###
 
