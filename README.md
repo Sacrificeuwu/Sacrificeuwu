@@ -45,11 +45,5 @@ I'm a third-year Applied Mathematics & Computer Science student who is deeply pa
   <img width="12" />
 </div>
 
-###
-
-<h3 align="left">🔥   My statistics :</h3>
-
-###
-
 
 ###
